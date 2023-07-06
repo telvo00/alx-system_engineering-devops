@@ -1,2 +1,2 @@
 #!/bin/bash
-chmodu+x -rwxr-xr-- hello
+chmod +114  hello
