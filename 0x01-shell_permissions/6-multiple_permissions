@@ -1,2 +1,2 @@
 #!/bin/bash
-chmodu+x +114 hello
+chmodu+x -rwxr-xr-- hello
